@@ -1,0 +1,1 @@
+IncludeScript("racecar_script", g_MapScript)
